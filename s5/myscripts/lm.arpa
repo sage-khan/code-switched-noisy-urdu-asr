@@ -1,0 +1,1368 @@
+
+\data\
+ngram 1=326
+ngram 2=888
+ngram 3=140
+
+\1-grams:
+-0.7948033		-0.3050102
+-2.077268	</s>
+-99	<s>	-0.6169414
+-2.724019	able	-0.1152925
+-2.827424	about	-0.1152925
+-2.827424	accomplish	-0.1152925
+-2.827424	actually	-0.1152925
+-2.827424	again	-0.1152925
+-2.022448	all	-0.1532044
+-2.827424	allows	-0.1152925
+-2.724019	along	-0.1720755
+-2.827424	already	-0.1152925
+-2.41278	also	-0.130773
+-2.724019	among	-0.1152925
+-2.41278	analysis	-0.1152924
+-1.363712	and	-0.299044
+-2.827424	another	-0.1152925
+-2.724019	any	-0.1152925
+-2.724019	application	-0.1152925
+-2.724019	applications	-0.1152925
+-1.820251	are	-0.1307729
+-2.827424	artifact	-0.1152925
+-2.562329	association	-0.1741813
+-2.724019	associations	-0.1152925
+-2.827424	assuming	-0.1152924
+-2.827424	attached	-0.1152925
+-2.724019	aub	-0.1720755
+-2.827424	based	-0.1152925
+-2.827424	basically	-0.1152925
+-2.724019	basket	-0.1152925
+-2.827424	beach	-0.1152925
+-2.827424	been	-0.1152925
+-2.724019	bias	-0.1152925
+-2.827424	bit	-0.1152925
+-2.827424	blue	-0.1152925
+-2.827424	both	-0.1152925
+-2.827424	bought	-0.1152925
+-2.827424	bread	-0.1152924
+-2.827424	brings	-0.1152925
+-2.827424	bunch	-0.1152925
+-2.562329	but	-0.1152925
+-2.562329	buy	-0.1741813
+-2.827424	call	-0.1152925
+-2.724019	called	-0.1152925
+-2.724019	can	-0.1152925
+-2.724019	case	-0.1152925
+-2.827424	causes	-0.1152925
+-2.827424	center	-0.1152925
+-2.827424	certain	-0.1152925
+-2.562329	class	-0.1152925
+-2.724019	classes	-0.1720755
+-2.827424	classification	-0.1152924
+-2.827424	clouds	-0.1152924
+-2.724019	cluster	-0.1152925
+-2.41278	clustering	-0.137123
+-2.41278	clusters	-0.1334076
+-2.827424	coherent	-0.1152925
+-2.724019	cohesive	-0.1152924
+-2.724019	collection	-0.1720755
+-2.41278	come	-0.1427566
+-2.724019	comes	-0.1720755
+-2.827424	coming	-0.1152925
+-2.827424	community	-0.1152924
+-2.827424	computer	-0.1152925
+-2.827424	conclude	-0.1152924
+-2.724019	conditional	-0.1720755
+-2.827424	confidence	-0.1152925
+-2.827424	conform	-0.1152925
+-2.827424	connection	-0.1152925
+-2.827424	considered	-0.1152925
+-2.562329	could	-0.1350925
+-2.827424	couple	-0.1152925
+-2.827424	course	-0.1152924
+-2.827424	curves	-0.1152925
+-2.827424	custom	-0.1152925
+-2.827424	customary	-0.1152925
+-2.301747	customer	-0.1646733
+-2.562329	customers	-0.1334076
+-1.789066	data	-0.199456
+-2.724019	denotes	-0.1152925
+-2.827424	dependencies	-0.1152925
+-2.827424	depending	-0.1152925
+-2.827424	derive	-0.1152925
+-2.140021	different	-0.1152925
+-2.724019	discover	-0.1152925
+-2.827424	discussed	-0.1152925
+-2.724019	documents	-0.1152925
+-2.827424	drawing	-0.1152925
+-2.724019	each	-0.1720755
+-2.724019	earlier	-0.1427566
+-2.827424	eggs	-0.1152925
+-2.724019	ellipsoids	-0.1152925
+-2.827424	else	-0.1152925
+-2.827424	end	-0.1152925
+-2.827424	entities	-0.1152925
+-2.724019	essentially	-0.1152925
+-2.827424	even	-0.1152925
+-2.827424	event	-0.1152925
+-2.562329	events	-0.1427566
+-2.562329	example	-0.1427566
+-2.724019	fall	-0.1720755
+-2.827424	false	-0.1152925
+-2.827424	faraway	-0.1152925
+-2.724019	fault	-0.1152925
+-2.827424	few	-0.1152925
+-2.724019	figure	-0.1720755
+-2.41278	find	-0.1288075
+-2.827424	finding	-0.1152924
+-2.724019	first	-0.1152925
+-2.562329	for	-0.1152925
+-2.724019	form	-0.1720755
+-2.827424	forms	-0.1152925
+-2.827424	forth	-0.1152925
+-2.827424	four	-0.1152925
+-2.213399	frequent	-0.240425
+-2.827424	frequently	-0.1152925
+-2.562329	from	-0.1152925
+-2.724019	give	-0.1720755
+-2.724019	given	-0.1152925
+-2.827424	goal	-0.1152925
+-2.827424	goes	-0.1152925
+-2.724019	going	-0.1720755
+-2.827424	graphs	-0.1152924
+-2.827424	group	-0.1152925
+-2.724019	groups	-0.1720755
+-2.827424	had	-0.1152925
+-2.827424	handle	-0.1152925
+-2.724019	happen	-0.1152925
+-2.827424	happened	-0.1152924
+-2.827424	happens	-0.1152925
+-2.827424	has	-0.1152925
+-2.301747	have	-0.1340486
+-2.827424	having	-0.1152925
+-2.827424	heard	-0.1152925
+-2.827424	hello	-0.1152924
+-2.022448	here	-0.5721213
+-2.827424	high	-0.1152925
+-2.827424	him	-0.1152924
+-2.827424	historic	-0.1152925
+-2.827424	how	-0.1152925
+-2.827424	identified	-0.1152925
+-2.827424	illustrated	-0.1152925
+-2.724019	image	-0.1152925
+-2.724019	implies	-0.1720755
+-2.724019	input	-0.1152924
+-2.827424	intact	-0.1152924
+-2.827424	interactions	-0.1152925
+-2.724019	interested	-0.1720755
+-2.724019	into	-0.1152924
+-2.827424	introduced	-0.1152925
+-2.827424	introducing	-0.1152925
+-2.827424	introduction	-0.1152925
+-2.41278	item	-0.1741813
+-2.827424	items	-0.1152925
+-2.41278	just	-0.1152924
+-2.827424	keep	-0.1152925
+-2.562329	kind	-0.1523113
+-2.724019	kinds	-0.1720755
+-2.724019	know	-0.1152925
+-2.827424	known	-0.1152925
+-2.562329	labels	-0.1152925
+-2.301747	learning	-0.1152924
+-2.827424	let	-0.1152925
+-2.41278	like	-0.1617474
+-2.827424	little	-0.1152925
+-2.562329	look	-0.1957299
+-2.827424	looked	-0.1152925
+-2.562329	looking	-0.1957299
+-2.827424	lot	-0.1152925
+-2.827424	machine	-0.1152925
+-2.724019	make	-0.1152925
+-2.562329	many	-0.1152924
+-2.724019	market	-0.1720755
+-2.827424	maybe	-0.1152925
+-2.827424	mean	-0.1152925
+-2.827424	measure	-0.1152925
+-2.827424	mentioned	-0.1152925
+-2.724019	might	-0.1152925
+-2.827424	milk	-0.1152924
+-2.41278	mining	-0.1152925
+-2.827424	module	-0.1152925
+-2.41278	more	-0.1427566
+-2.827424	most	-0.1152925
+-2.827424	necessarily	-0.1152925
+-2.562329	need	-0.1523113
+-2.827424	network	-0.1152925
+-2.827424	next	-0.1152925
+-2.140021	not	-0.1152925
+-2.724019	note	-0.1152925
+-2.827424	now	-0.1152925
+-2.827424	numerous	-0.1152924
+-2.724019	occur	-0.1152925
+-2.988229	occurrence
+-2.827424	occurring	-0.1152925
+-2.827424	occurs	-0.1152925
+-2.213399	often	-0.1532044
+-2.827424	okay	-0.1152925
+-2.827424	once	-0.1152925
+-2.41278	one	-0.137123
+-2.827424	ones	-0.1152925
+-2.827424	opposed	-0.1152925
+-2.562329	other	-0.1371231
+-2.301747	out	-0.1634948
+-2.827424	outliers	-0.1152925
+-2.827424	particular	-0.1152925
+-2.827424	paths	-0.1152925
+-2.301747	patterns	-0.1571686
+-2.827424	picture	-0.1152925
+-2.827424	pixels	-0.1152925
+-2.827424	place	-0.1152925
+-2.562329	points	-0.130773
+-2.827424	popular	-0.1152925
+-2.827424	possible	-0.1152925
+-2.827424	predicting	-0.1152925
+-2.827424	primarily	-0.1152925
+-2.41278	problem	-0.1152924
+-2.827424	problems	-0.1152924
+-2.827424	process	-0.1152925
+-2.827424	promotions	-0.1152924
+-2.827424	purchase	-0.1152925
+-2.827424	purported	-0.1152925
+-2.827424	put	-0.1152925
+-2.827424	question	-0.1152924
+-2.827424	reasons	-0.1152925
+-2.827424	red	-0.1152925
+-2.827424	region	-0.1152925
+-2.827424	regions	-0.1152925
+-2.827424	regression	-0.1152924
+-2.827424	representative	-0.1152925
+-2.827424	representing	-0.1152925
+-1.510145	right	-0.7310498
+-2.724019	rule	-0.1523113
+-2.562329	rules	-0.1152925
+-2.827424	sand	-0.1152924
+-2.41278	say	-0.1371231
+-2.827424	scene	-0.1152924
+-2.827424	sea	-0.1152924
+-2.827424	second	-0.1152925
+-2.827424	segmentation	-0.1152925
+-2.827424	sense	-0.1152925
+-2.827424	sequence	-0.1152925
+-2.827424	sequences	-0.1152925
+-2.724019	series	-0.1152925
+-2.41278	set	-0.2710913
+-2.827424	sets	-0.1152925
+-2.827424	settings	-0.1152925
+-2.827424	setup	-0.1152925
+-2.724019	shape	-0.1152925
+-2.562329	shop	-0.1334076
+-2.827424	should	-0.1152925
+-2.724019	similar	-0.1152925
+-2.827424	site	-0.1152925
+-2.827424	social	-0.1152925
+-2.724019	some	-0.1152925
+-2.724019	something	-0.1720755
+-2.562329	somewhere	-0.1523113
+-2.827424	space	-0.1152924
+-2.827424	specific	-0.1152925
+-2.827424	stages	-0.1152925
+-2.827424	step	-0.1152924
+-2.827424	still	-0.1152925
+-2.724019	store	-0.1720755
+-2.562329	subset	-0.1957299
+-2.724019	supervised	-0.1720755
+-2.827424	suppose	-0.1152924
+-2.827424	synonyms	-0.1152924
+-2.827424	tags	-0.1152925
+-2.827424	take	-0.1152925
+-2.827424	targeted	-0.1152925
+-2.827424	tasks	-0.1152925
+-2.827424	tell	-0.1152925
+-2.827424	term	-0.1152925
+-2.827424	terminology	-0.1152924
+-2.827424	than	-0.1152925
+-1.510145	that	-0.2687197
+-1.707049	the	-0.1286826
+-2.562329	them	-0.1152925
+-2.213399	then	-0.332241
+-2.140021	there	-0.2226653
+-2.827424	therefore	-0.1152925
+-2.562329	these	-0.1523113
+-2.724019	they	-0.1152925
+-2.562329	thing	-0.1523113
+-2.724019	things	-0.1152925
+-2.827424	think	-0.1152925
+-2.077268	this	-0.1284475
+-2.41278	those	-0.1601093
+-2.724019	time	-0.1152924
+-2.827424	tofigure	-0.1152925
+-2.41278	together	-0.1152924
+-2.827424	topics	-0.1152924
+-2.827424	training	-0.1152925
+-2.724019	transaction	-0.1720755
+-2.724019	transactions	-0.1152925
+-2.827424	tree	-0.1152925
+-2.827424	trigger	-0.1152925
+-2.827424	triggers	-0.1152925
+-2.827424	try	-0.1152925
+-2.41278	two	-0.1152924
+-2.827424	type	-0.1152925
+-2.827424	typically	-0.1152925
+-2.724019	unsupervised	-0.1720755
+-2.827424	usage	-0.1152925
+-2.827424	usages	-0.1152924
+-2.827424	use	-0.1152925
+-2.827424	used	-0.1152925
+-2.827424	usually	-0.1152925
+-2.827424	variety	-0.1152925
+-2.827424	very	-0.1152925
+-2.827424	visits	-0.1152925
+-2.724019	was	-0.1152925
+-2.724019	ways	-0.1720755
+-2.827424	weare	-0.1152925
+-2.827424	welcome	-0.1152925
+-2.724019	what	-0.1523113
+-2.827424	when	-0.1152925
+-2.827424	whenever	-0.1152925
+-2.562329	where	-0.1152925
+-2.301747	which	-0.1468258
+-2.827424	who	-0.1152925
+-2.562329	will	-0.1152925
+-2.213399	with	-0.130773
+-2.827424	word	-0.1152925
+-2.827424	world	-0.1152925
+-1.65988	you	-0.2844005
+-2.562329	your	-0.1427566
+
+\2-grams:
+-0.7046463	 	-0.133033
+-2.201691	 </s>
+-2.770244	 able
+-2.824166	 actually
+-2.26227	 all
+-2.824166	 already
+-2.392186	 also
+-1.602068	 and	-0.396856
+-2.541311	 another
+-1.956583	 are
+-2.824166	 artifact
+-2.308547	 association	-0.05406186
+-2.824166	 assuming	-0.09959951
+-2.770244	 aub
+-2.824166	 beach
+-2.770244	 bias
+-2.824166	 both	-0.09959954
+-2.824166	 bunch
+-2.673829	 but
+-2.824166	 call
+-2.770244	 called
+-2.770244	 can
+-2.673829	 class
+-2.541311	 classification
+-2.770244	 cluster
+-2.058484	 clustering	-0.4277515
+-2.824166	 coherent
+-2.770244	 cohesive
+-2.512365	 collection	-0.09959951
+-2.512365	 comes	-0.09959951
+-2.824166	 computer	-0.09959954
+-2.770244	 conditional
+-2.824166	 considered
+-2.308547	 could	-0.03890182
+-2.824166	 couple
+-2.219679	 customer
+-2.308547	 customers
+-1.991803	 data	-0.06009135
+-2.361421	 different
+-2.770244	 discover
+-2.347532	 documents
+-2.770244	 each
+-2.770244	 earlier
+-2.4565	 events
+-2.673829	 example
+-2.770244	 fall
+-2.541311	 false
+-2.770244	 fault
+-2.541311	 few
+-2.770244	 figure
+-2.261844	 find
+-2.541311	 finding
+-2.770244	 first
+-2.4565	 for	-0.0995995
+-2.824166	 forth
+-2.286577	 frequent	-0.06103959
+-2.770244	 give
+-2.770244	 given
+-2.824166	 happens
+-2.824166	 has
+-1.900803	 have
+-2.824166	 having
+-2.164755	 here	0.009034514
+-2.824166	 how
+-2.770244	 image
+-2.770244	 implies
+-2.824166	 interactions
+-2.824166	 introduction
+-2.572331	 item
+-2.541311	 items
+-2.572331	 just
+-2.824166	 keep
+-2.490119	 learning
+-2.824166	 little
+-2.673829	 look	-0.09959951
+-2.367127	 looked	-0.5654972
+-2.4565	 looking	-0.09959951
+-2.824166	 lot
+-2.770244	 make
+-2.4565	 many
+-2.824166	 measure
+-2.541311	 mentioned	-0.5654972
+-2.770244	 might
+-2.261844	 mining	-0.04599265
+-2.673829	 need
+-2.145943	 not
+-2.770244	 note
+-2.770244	 occur
+-2.42102	 often
+-2.824166	 once
+-2.058484	 one	-0.09959951
+-2.541311	 opposed	-0.09959954
+-2.824166	 outliers
+-2.541311	 picture	-0.09959954
+-2.4565	 points
+-2.824166	 possible
+-2.824166	 predicting
+-2.824166	 primarily
+-1.758364	 right
+-2.673829	 rules
+-2.572331	 say
+-2.824166	 sequence
+-2.572331	 set
+-2.673829	 shop
+-2.824166	 should
+-2.824166	 site
+-2.824166	 social
+-2.512365	 some
+-2.770244	 something
+-2.673829	 somewhere
+-2.824166	 specific
+-2.770244	 store	-0.5654973
+-2.673829	 subset
+-2.770244	 supervised
+-2.824166	 suppose
+-2.824166	 targeted
+-2.824166	 tell
+-2.824166	 terminology
+-1.495743	 that	-0.2411104
+-1.037562	 the	-0.100939
+-2.673829	 them
+-1.982388	 there	-0.32937
+-2.673829	 these
+-2.770244	 things
+-1.430444	 this	-0.1161474
+-2.392186	 those
+-2.770244	 time
+-2.572331	 together
+-2.770244	 transactions
+-2.824166	 trigger
+-2.824166	 triggers
+-2.572331	 two
+-2.824166	 typically
+-2.512365	 unsupervised	-0.09959951
+-2.824166	 visits
+-2.110124	 what	-0.3342645
+-2.824166	 when
+-2.031609	 which	-0.0995995
+-2.308547	 will
+-2.42102	 with
+-2.824166	 world
+-1.35842	 you	-0.156827
+-1.941189	 your	-0.3176748
+-0.4446734	<s> 	-0.03510538
+-0.3603521	<s> and	-0.1482963
+-1.89857	<s> hello
+-0.6205543	able 
+-0.9291552	able tofigure
+-0.6051819	about the
+-0.6268683	accomplish clustering
+-0.630235	actually faraway
+-0.9291552	again now
+-0.9224799	again those
+-0.858162	all 
+-1.427968	all data
+-1.564907	all ellipsoids
+-1.519915	all frequent
+-0.8457414	all right	-0.05826361
+-1.063016	all the
+-0.6021704	allows you
+-0.4798353	along with
+-0.6221292	already there
+-0.6733339	also 
+-1.459609	also interested
+-1.459609	also note
+-1.463329	also tags
+-1.412644	also there
+-1.305381	also you
+-0.9291552	among entities
+-0.9256287	among these
+-0.7416297	analysis 
+-1.038684	analysis and
+-1.212872	analysis like
+-1.086299	analysis right
+-0.6247697	and 	-0.2262683
+-1.919804	and again
+-1.878691	and also
+-2.303801	and associations
+-2.303801	and aub	-0.09959951
+-2.321729	and blue
+-2.321729	and bread
+-2.321729	and depending
+-2.115855	and different
+-2.321729	and graphs
+-2.224638	and like
+-2.267933	and many
+-2.303801	and market
+-2.224638	and more
+-2.115855	and not
+-1.5719	and that	-0.0995995
+-1.09501	and the
+-1.13334	and then	-0.4638028
+-2.115855	and there
+-2.321729	and therefore
+-2.267933	and these
+-2.084908	and this
+-2.224638	and those
+-1.919804	and try	-0.09959954
+-2.321729	and type
+-2.321729	and welcome
+-2.321729	and whenever
+-2.267933	and where
+-1.088938	and you	-0.05448224
+-0.9291552	another question
+-0.9256287	another subset
+-0.6205543	any 
+-0.9256287	any labels
+-0.90707	application here
+-0.9193539	application which
+-0.8921881	applications are
+-0.90707	applications here
+-0.8475289	are 
+-2.012155	are able
+-1.813775	are all
+-1.951267	are also
+-2.02558	are bought
+-2.02558	are coming
+-2.012155	are conditional
+-2.02558	are discussed
+-2.012155	are ellipsoids
+-2.012155	are essentially
+-1.606176	are interested	-0.09959951
+-1.951267	are just
+-1.611398	are known	-0.09959954
+-1.951267	are like
+-1.984885	are looking
+-1.984885	are many
+-1.951267	are more
+-2.02558	are numerous
+-1.984885	are other
+-2.02558	are paths
+-2.012155	are similar
+-1.984885	are subset
+-1.421427	are the
+-1.951267	are two
+-0.4483612	artifact 
+-0.5632485	association rule	-0.4294283
+-1.220958	association rules
+-0.824585	associations and
+-0.9256287	associations from
+-0.590329	assuming that
+-0.4483612	attached 
+-0.3614458	aub 	-0.063665
+-0.4483612	based 
+-0.6252828	basically have
+-0.7704954	basket 
+-1.275318	basket </s>
+-1.304559	basket analysis
+-1.228453	basket data
+-1.152916	basket right
+-0.630235	beach scene
+-0.630235	been drawing
+-0.8530432	bias right
+-0.8530432	bias that
+-0.4483612	bit 
+-0.6296668	blue denotes
+-0.4483612	both 	-0.09959951
+-0.6268683	bought together
+-0.5745568	bread and
+-0.4483612	brings 
+-0.4483612	bunch 
+-1.097893	but somewhere
+-1.103147	but still
+-1.101461	but they
+-0.4207779	buy 	-0.06376171
+-1.215545	buy say
+-0.6205609	call this
+-0.6205543	called 
+-0.928025	called market
+-1.567879	can accomplish
+-1.567879	can conclude
+-1.567879	can derive
+-1.562981	can figure
+-1.539546	can find
+-1.562981	can know
+-1.562981	can make
+-1.539546	can say
+-1.567879	can use
+-0.6205543	case 
+-0.8806393	case the
+-0.4483612	causes 
+-0.4483612	center 
+-0.6284596	certain events
+-1.038684	class and
+-1.212872	class one
+-1.086299	class right
+-1.212872	class two
+-0.3614458	classes 	-0.0995995
+-0.889272	classification data
+-0.9291552	classification regression
+-0.5745568	clouds and
+-0.6974134	cluster 
+-0.9550393	cluster and
+-0.9939268	cluster right
+-0.6058534	clustering 
+-1.106832	clustering and
+-1.318688	clustering rule
+-1.313106	clustering where
+-0.9385357	clusters </s>
+-1.150627	clusters and
+-1.301158	clusters are
+-1.210552	clusters that
+-1.346637	clusters this
+-0.4483612	coherent 
+-0.889272	cohesive data
+-0.928025	cohesive groups
+-0.3614458	collection 
+-0.5543454	come 
+-1.202783	come then
+-1.202783	come with
+-0.3614458	comes 	-0.05740929
+-0.4483612	coming 
+-0.5745568	community and
+-0.4483612	computer 
+-0.590329	conclude that
+-0.483939	conditional dependencies
+-0.6021704	confidence you
+-0.4483612	conform 
+-0.630235	connection intact
+-0.4483612	considered 
+-0.7520317	could 	-0.06348815
+-1.61928	could also
+-1.646293	could discover
+-1.61928	could find
+-1.646293	could form	-0.09959951
+-1.61928	could just
+-1.634455	could look	-0.6904359
+-1.205426	could say
+-1.651967	could think	-0.09959954
+-0.4483612	couple 
+-0.5745568	course and
+-0.6284596	curves for
+-0.4483612	custom 
+-0.4483612	customary 
+-0.576313	customer 	-0.04687055
+-0.9804989	customer data
+-1.263989	customer that
+-1.453669	customer will
+-1.301158	customers are
+-1.210552	customers right
+-0.8801874	customers that
+-1.398445	customers who
+-1.259993	customers you
+-0.9391299	data 
+-1.181582	data and	-0.09959951
+-1.387967	data mining
+-0.9045544	data points	-0.03552546
+-1.236546	data right	-0.0995995
+-1.387967	data set
+-1.078098	data that
+-1.772923	data which
+-0.9224799	denotes one
+-0.8806393	denotes the
+-0.6205543	dependencies 
+-0.928025	dependencies among
+-0.4483612	depending 
+-0.6296668	derive associations
+-1.458975	different classes
+-1.458975	different kinds
+-1.462825	different region
+-1.462825	different regions
+-1.462825	different settings
+-1.462825	different topics
+-1.458975	different ways
+-1.079494	discover different
+-1.103147	discover synonyms
+-1.03258	discover the
+-0.4483612	discussed 
+-0.7416297	documents 
+-1.038684	documents and
+-1.155593	documents are
+-1.086299	documents right
+-0.4483612	drawing 
+-0.4828258	each other
+-0.5543454	earlier 
+-1.224406	earlier transaction
+-1.130523	earlier you
+-0.630235	eggs milk
+-0.9256287	ellipsoids but
+-0.8530432	ellipsoids right
+-0.6205543	else 
+-0.9291552	else maybe
+-0.4483612	end 
+-0.6296668	entities happen
+-0.9291552	essentially introduced
+-0.9291552	essentially machine
+-0.4483612	even 
+-0.630235	event occurs
+-0.7600726	events 
+-0.770586	events </s>
+-1.094059	events that
+-0.5543454	example 
+-1.224406	example given
+-1.186255	example here
+-0.4835829	fall into
+-0.824585	false and
+-0.9291552	false causes
+-0.6284596	faraway from
+-0.9224799	fault analysis
+-0.8530432	fault right
+-0.6205543	few 
+-0.9291552	few representative
+-0.4808298	figure out
+-1.44125	find all
+-1.519269	find customary
+-1.472472	find frequent
+-1.515021	find groups
+-1.068056	find out
+-1.519269	find sequences
+-1.283092	find that
+-1.22376	finding cohesive
+-1.150259	finding data
+-1.200796	finding frequent
+-1.206792	finding patterns
+-0.7416297	first 
+-1.212872	first problem
+-1.225996	first step
+-1.219038	first thing
+-1.103147	for certain
+-1.097893	for example
+-1.103147	for representing
+-0.3614458	form 	-0.0637565
+-0.6051819	forms the
+-0.824585	forth and
+-0.8530432	forth right
+-0.6268683	four clusters
+-1.463528	frequent implies
+-1.019129	frequent item	-0.5654972
+-0.5211219	frequent patterns
+-0.630235	frequently occurring
+-1.070578	from all
+-1.03258	from the
+-1.075013	from this
+-0.4661455	give you	-0.09959952
+-0.6205543	given 
+-0.90707	given here
+-0.4483612	goal 
+-0.4483612	goes 
+-0.3614458	going 
+-0.590329	graphs that
+-0.6284596	group them
+-0.3614458	groups 
+-0.6284596	had labels
+-0.630235	handle training
+-0.9291552	happen let
+-0.9162502	happen often
+-0.5745568	happened and
+-0.9162502	happens often
+-0.9162502	happens then
+-0.6268683	has come
+-0.6808881	have 
+-1.290596	have and
+-1.6816	have any
+-1.687773	have been
+-1.668743	have customers
+-1.687773	have heard
+-1.687773	have identified
+-1.687773	have illustrated
+-1.6816	have some
+-1.375531	have that
+-0.4483612	having 
+-0.4483612	heard 
+-0.5745568	hello and
+-0.1238956	here 	-0.04759439
+-1.562771	here are
+-0.630235	high confidence
+-0.590329	him right
+-0.630235	historic connection
+-0.6021704	how you
+-0.4483612	identified 
+-0.6189983	illustrated here
+-0.7416297	image 
+-1.038684	image and
+-1.225996	image pixels
+-1.086299	image right
+-0.4818267	implies item	-0.09959953
+-0.9550393	input and
+-1.044881	input data
+-1.103147	input space
+-0.590329	intact right
+-0.6296668	interactions among
+-0.3614458	interested 	-0.5654972
+-1.101461	into any
+-1.09322	into clusters
+-1.079494	into different
+-0.4483612	introduced 
+-0.6296668	introducing unsupervised
+-0.4483612	introduction 
+-0.5611497	item set	-0.787346
+-1.227055	item sets	-0.05955064
+-0.6205543	items 
+-0.8530432	items that
+-0.7416297	just 
+-1.22376	just going
+-1.225996	just group
+-1.225996	just take
+-0.6051819	keep the
+-0.4801152	kind 
+-1.077729	kind this
+-0.3614458	kinds 
+-0.6974134	know 
+-0.9939268	know that
+-1.079494	know there
+-0.4483612	known 	-0.09959952
+-0.6974134	labels 
+-1.103147	labels attached
+-1.02457	labels you
+-0.8060198	learning 
+-1.40092	learning </s>
+-1.458975	learning case
+-1.440426	learning just
+-1.440426	learning problem
+-1.462825	learning problems
+-1.244142	learning right
+-0.4483612	let 
+-0.483852	like 	-0.06372552
+-1.3072	like clustering
+-1.32188	like four
+-0.630235	little bit
+-0.3325358	look 
+-0.4483612	looked 	-0.05740929
+-0.3325358	looking 
+-0.4483612	lot 
+-0.6252828	machine learning
+-0.9224799	make more
+-0.9256287	make rules
+-0.7416297	many 
+-1.22376	many applications
+-1.225996	many mean
+-1.22376	many ways
+-0.4835829	market basket
+-0.6221292	maybe not
+-0.6221292	mean different
+-0.6051819	measure the
+-0.6296668	mentioned earlier
+-0.6205543	might 
+-0.9193539	might have
+-0.5745568	milk and
+-0.8347104	mining 
+-1.526745	mining </s>
+-1.247916	mining and
+-1.611606	mining community
+-1.552734	mining frequent
+-1.514312	mining here
+-1.580377	mining problem
+-1.611606	mining process
+-1.611606	mining tasks
+-1.606192	mining transactions
+-0.6205543	module 
+-0.9291552	module introducing
+-0.7747577	more often
+-1.226507	more sense
+-1.224406	more similar
+-0.630235	most popular
+-0.6268683	necessarily come
+-0.4801152	need 
+-1.081867	need not
+-0.6268683	network analysis
+-0.6296668	next time
+-0.8347104	not 
+-1.514312	not all
+-1.594888	not buy
+-1.611606	not conform
+-1.606192	not fall
+-1.606192	not going
+-1.566336	not have
+-1.611606	not necessarily
+-1.416011	not the
+-1.552734	not with
+-0.90707	note here
+-0.8530432	note that
+-0.6268683	now those
+-0.590329	numerous right
+-0.6205543	occur 
+-0.9224799	occur together
+-0.6252828	occurring patterns
+-0.6268683	occurs more
+-0.7318538	often 	-0.5654972
+-1.564907	often called
+-0.8457414	often right
+-1.569413	often than
+-1.519915	often then
+-1.519915	often with
+-0.6205609	okay this
+-0.4483612	once 
+-0.6058534	one 
+-1.313106	one class
+-1.160148	one that
+-1.313106	one thing	-0.09959953
+-0.4483612	ones 
+-0.4483612	opposed 
+-1.271191	other all
+-1.106832	other and
+-1.313106	other class
+-0.8766257	other points	-0.0995995
+-0.6913353	out 
+-1.329934	out the
+-1.023355	out what	-0.09959951
+-1.013701	out which
+-0.6205543	outliers 
+-0.90707	outliers all
+-0.630235	particular place
+-0.4483612	paths 
+-0.713367	patterns 
+-1.456267	patterns </s>
+-0.9510792	patterns and
+-0.9859108	patterns right
+-1.295363	patterns that
+-0.4483612	picture 	-0.0995995
+-0.4483612	pixels 
+-0.6205609	place this
+-0.6733339	points 	-0.06116555
+-1.184856	points and
+-1.451794	points could	-0.0995995
+-1.451794	points need
+-1.25051	points that
+-1.412644	points there
+-1.101461	popular application
+-1.097893	popular example
+-1.097893	popular thing
+-0.6268683	possible clusters
+-0.4483612	predicting 
+-0.4483612	primarily 
+-0.7416297	problem 
+-1.038684	problem and
+-1.086299	problem that
+-1.22376	problem was
+-0.590329	problems right
+-0.630235	process usually
+-0.5745568	promotions and
+-0.6097387	purchase data
+-0.6097387	purported data
+-0.6284596	put them
+-0.590329	question that
+-0.4483612	reasons 
+-0.6296668	red denotes
+-0.4483612	region 
+-0.4483612	regions 
+-0.5745568	regression and
+-0.630235	representative ones
+-0.6051819	representing the
+-0.364193	right 	-0.1667859
+-0.7556986	right </s>
+-0.6213523	right and	0.001073994
+-2.108015	right then
+-1.090265	rule learning
+-0.6559702	rule mining	-0.02961569
+-1.088596	rules out
+-0.9939268	rules that
+-1.088596	rules which
+-0.5745568	sand and
+-1.321335	say eggs
+-1.318688	say something
+-0.8142182	say that
+-1.305833	say two
+-0.5745568	scene and
+-0.5745568	sea and
+-0.6205543	second 
+-0.928025	second application
+-0.630235	segmentation based
+-0.6252828	sense out
+-0.4483612	sequence 
+-0.4483612	sequences 
+-0.9224799	series analysis
+-0.889272	series data
+-0.2979081	set 	-0.2116188
+-1.317868	set where
+-0.8530432	sets right
+-0.9162502	sets then
+-0.6021704	settings you
+-0.4483612	setup 
+-0.6205543	shape 
+-0.9291552	shape curves
+-0.8045599	shop 
+-1.338719	shop all
+-1.395258	shop along
+-0.8511508	shop and
+-1.398445	shop custom
+-0.6296668	should give
+-0.6205543	similar 
+-0.9162502	similar with
+-0.630235	site about
+-0.630235	social network
+-1.22376	some form
+-1.219038	some kind
+-1.225996	some segmentation
+-1.219038	some somewhere
+-0.4818267	something like
+-0.7197219	somewhere 
+-0.6592758	somewhere else
+-0.590329	space right
+-0.6296668	specific shape
+-0.4483612	stages 
+-0.590329	step that
+-0.6221292	still there
+-0.4798353	store often	-0.03843649
+-0.3325358	subset 
+-0.4808298	supervised learning
+-0.590329	suppose that
+-0.5745568	synonyms and
+-0.6296668	tags along
+-0.6189983	take all
+-0.630235	targeted promotions
+-0.6112683	tasks are
+-0.6021704	tell you
+-0.6097387	term data
+-0.5745568	terminology and
+-0.6221292	than not
+-0.4448417	that 	-0.1043679
+-2.148564	that allows
+-1.425223	that are
+-2.076571	that come
+-2.135587	that comes
+-1.690968	that customer	-0.09959951
+-1.991262	that different
+-2.148564	that even
+-2.148564	that had
+-2.148564	that happened
+-1.704095	that item	-0.09959953
+-1.991262	that not
+-2.135587	that occur
+-2.148564	that okay
+-1.639391	that right
+-1.772749	that the
+-2.135587	that they
+-2.135587	that was
+-2.148564	that weare
+-1.385063	that you	-0.0628892
+-0.9064957	the 
+-2.210275	the applications
+-2.167794	the association	-0.0995995
+-2.210275	the bias
+-2.23176	the center
+-2.210275	the classes
+-2.23176	the clouds
+-2.210275	the cluster
+-1.60055	the clusters
+-2.23176	the course
+-2.072119	the customer
+-2.167794	the customers
+-1.77357	the data
+-1.993764	the different
+-2.23176	the end
+-2.210275	the fault
+-1.831018	the first
+-2.23176	the frequently
+-2.23176	the historic
+-1.831018	the image
+-2.210275	the input
+-2.210275	the kinds
+-2.23176	the most	-0.5654972
+-2.23176	the next
+-2.117327	the one
+-1.812771	the other
+-2.072119	the patterns
+-2.117327	the problem
+-2.23176	the purported
+-2.23176	the reasons
+-2.23176	the sand
+-2.23176	the sea
+-1.839861	the second
+-2.210275	the shape
+-2.167794	the shop	-0.03998066
+-2.210275	the store
+-2.210275	the supervised
+-2.23176	the term
+-2.210275	the transaction
+-2.23176	the tree
+-2.23176	the usage
+-2.23176	the variety
+-2.23176	the word
+-0.6974134	them 
+-1.101461	them into
+-0.9939268	them right
+-0.2874843	then 
+-0.9844235	then you	-0.2388022
+-0.7499642	there 
+-0.5684558	there are	-0.02276932
+-1.321981	there right
+-1.321981	there that
+-0.6021704	therefore you
+-0.6406471	these are
+-1.090265	these patterns
+-0.6205543	they 
+-0.8921881	they are
+-0.4801152	thing 	-0.05740929
+-1.073629	thing here
+-0.6205543	things 
+-0.9224799	things together
+-0.4483612	think 
+-0.7367076	this 	-0.02886371
+-1.802634	this association
+-1.829094	this brings
+-1.820461	this case
+-1.820461	this collection
+-1.758735	this customer
+-1.829094	this forms
+-1.738345	this frequent
+-1.820461	this input
+-1.802634	this kind
+-1.829094	this module
+-1.802634	this need
+-1.829094	this particular
+-1.829094	this purchase
+-1.829094	this setup
+-0.6165511	those 
+-1.115964	those and
+-0.8744218	those set	-0.09959951
+-0.928025	time series
+-0.874978	time you
+-0.6252828	tofigure out
+-0.7416297	together 
+-1.038684	together and
+-1.200796	together often
+-1.086299	together right
+-0.590329	topics that
+-0.6097387	training data
+-0.3614458	transaction 
+-0.6974134	transactions 
+-0.9550393	transactions and
+-1.044881	transactions data
+-0.6284596	tree from
+-0.6284596	trigger events
+-0.6284596	triggers for
+-0.4483612	try 
+-1.22376	two documents
+-1.225996	two stages
+-1.22376	two things
+-1.124533	two you
+-0.6296668	type series
+-0.630235	typically used
+-0.4808298	unsupervised learning	-0.06222152
+-0.4483612	usage 
+-0.590329	usages right
+-0.6268683	use clustering
+-0.4483612	used 
+-0.630235	usually goes
+-0.4483612	variety 
+-0.630235	very high
+-0.6284596	visits your
+-0.928025	was essentially
+-0.8806393	was the
+-0.3614458	ways 
+-0.6284596	weare looking
+-0.4483612	welcome 
+-0.7197219	what 
+-0.6406471	what are	-0.0627711
+-0.6021704	when you
+-0.6252828	whenever customer
+-1.103147	where red
+-1.02457	where you
+-1.097893	where your
+-0.6822413	which 	-0.09959951
+-1.355606	which are
+-1.463834	which event
+-1.452699	which kind	-0.09959953
+-0.9622759	which you	-0.06211399
+-0.6268683	who come
+-1.312188	will buy
+-1.320826	will handle
+-1.318047	will happen
+-1.312188	will look
+-1.282446	will not
+-0.6733339	with 
+-1.459609	with each
+-1.463329	with him
+-1.451794	with labels
+-1.320255	with the
+-1.463329	with very
+-0.6268683	word mining
+-0.630235	world usages
+-0.8446692	you 
+-1.40942	you are
+-2.128744	you basically
+-2.092331	you but
+-1.696438	you buy
+-1.217169	you can
+-0.6904771	you could	-0.2749574
+-2.061989	you find
+-1.472484	you have
+-1.493784	you know	-0.057276
+-2.116772	you might
+-2.128744	you put
+-1.643767	you that
+-2.092331	you will
+-1.224406	your basket
+-1.226507	your goal
+-0.7810914	your shop	-0.05952913
+
+\3-grams:
+-0.5759367	  
+-2.082009	  also
+-1.335167	  and
+-2.173933	  assuming
+-2.173933	  both
+-1.466661	  find
+-2.173933	  forth
+-2.173933	  happens
+-2.149765	  look
+-1.497412	  store
+-1.593137	  that
+-1.058129	  the
+-0.6716219	<s>  
+-1.059802	<s>  you
+-0.4110313	and  
+-1.547051	and  are
+-0.7750672	and  the
+-0.8513361	aub  frequent
+-0.6481745	both  and
+-0.8606177	buy  computer
+-0.6801738	classes  customers
+-0.5275583	comes  
+-1.122605	could  clustering
+-1.149926	could  some
+-0.982107	customer  class
+-0.8601114	form  cluster
+-0.6951027	here  
+-1.342511	here  mining
+-1.173919	here  that
+-0.1373777	interested  finding
+-0.6858571	known  outliers
+-0.857114	like  mentioned
+-0.5275583	looked  
+-0.106945	often  
+-0.4414278	picture  
+-0.6756422	points  the
+-0.4173846	right  
+-1.525622	right  here
+-1.315481	right  this
+-1.280116	right  you
+-0.3352723	set  
+-1.291301	set  data
+-0.4922865	that  
+-1.561283	that  could
+-1.537862	that  not
+-0.5275583	thing  
+-1.004234	this  this
+-0.5561778	which  the
+-0.2035438	 and 
+-1.153012	 and aub
+-0.3392282	<s> and 
+-0.5793413	data and then
+-0.6282404	right and 
+-0.7307642	there are 
+-0.7763207	what are the
+-0.4456085	 association rule
+-0.3743943	the association rule
+-0.3881213	 assuming that
+-0.2589728	and aub 
+-0.3114878	 both 
+-0.1432166	 clustering 
+-0.2589728	 collection 
+-0.2589728	 comes 
+-0.3114878	 computer 
+-0.6064022	 could 
+-0.651908	points could form
+-0.5244328	you could 
+-1.415903	you could discover
+-0.6504611	you could look
+-1.417529	you could think
+-0.3810693	that customer 
+-0.6239695	 data points
+-0.5712175	 for example
+-0.2589728	could form 
+-0.6690532	 frequent item
+-0.12692	 here 
+-0.2589728	are interested 
+-0.1283311	frequent item sets
+-0.3733127	implies item set
+-0.3733127	that item set
+-0.3296256	which kind 
+-0.5236402	you know 
+-0.3114878	are known 
+-0.7378578	unsupervised learning right
+-0.2405951	 look 
+-0.05018124	could look 
+-0.08359829	 looked 
+-0.2405951	 looking 
+-0.1013606	 mentioned earlier
+-0.9109359	 mining transactions
+-0.6933826	rule mining 
+-0.1014063	the most popular
+-0.5944645	store often 
+-0.5235943	 one 
+-0.8503735	 one thing
+-0.3114878	 opposed 
+-0.3114878	 picture 
+-0.954271	data points could
+-0.4275698	other points 
+-0.5543612	all right </s>
+-0.4033283	data right and
+-0.1486657	association rule mining
+-0.036684	item set 
+-0.2180025	those set 
+-0.6013153	item sets right
+-0.6364084	the shop 
+-0.6004543	your shop and
+-0.08717793	 store often
+-0.1992038	 that 
+-0.3094426	and that 
+-1.764621	 the association
+-1.64232	 the first
+-1.64232	 the image
+-1.776005	 the input
+-1.153012	 the most
+-0.9945529	 the shop
+-0.6273537	and then 
+-0.1983503	and then you
+-0.1817014	 there are
+-0.3296256	one thing 
+-0.3114878	could think 
+-0.4592156	 this 
+-1.409253	 this module
+-0.3114878	and try 
+-0.3300272	 unsupervised learning
+-0.2040185	 what 
+-0.4125071	out what are
+-0.8843744	 which kind
+-0.7231006	 which you
+-1.280594	 you are
+-0.3767825	 you could
+-0.9298875	and you can
+-0.6311865	and you could
+-0.4967116	give you 
+-0.7852606	that you have
+-0.4013501	then you can
+-0.7476785	then you could
+-0.7308768	which you can
+-0.3320548	 your basket
+-0.7914662	 your shop
+
+\end\
+

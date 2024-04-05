@@ -1,0 +1,324 @@
+able	ey b ah l
+about	ah b aw t
+accomplish	ah k aa m p l ih sh
+actually	ae k ch uw ah l iy
+again	ah g eh n
+all	ah l
+allows	ah l aw z
+along	ah l ao ng
+already	ao l r eh d iy
+also	ao l s ow
+among	ah m ah ng
+analysis	ah n ae l ah s ah s
+and	ah n d
+another	ah n ah dh er
+any	eh n iy
+application	ae p l ah k ey sh ah n
+applications	ae p l ah k ey sh ah n z
+are	aa r
+artifact	aa r t ah f ae k t
+association	ah s ow sh iy ey sh ah n
+associations	ah s ow sh iy ey sh ah n z
+assuming	ah s uw m ih ng
+attached	ah t ae ch t
+aub	ao b
+based	b ey s t
+basically	b ey s ih k l iy
+basket	b ae s k ah t
+beach	b iy ch
+been	b ih n
+bias	b ay ah s
+bit	b ih t
+blue	b l uw
+both	b ow th
+bought	b ao t
+bread	b r eh d
+brings	b r ih ng z
+bunch	b ah n ch
+but	b ah t
+buy	b ay
+call	k ao l
+called	k ao l d
+can	k ae n
+case	k ey s
+causes	k ao z ah z
+center	s eh n t er
+certain	s er t ah n
+class	k l ae s
+classes	k l ae s ah z
+classification	k l ae s ah f ah k ey sh ah n
+clouds	k l aw d z
+cluster	k l ah s t er
+clustering	k l ah s t er ih ng
+clusters	k l ah s t er z
+coherent	k ow hh ih r ah n t
+cohesive	k ow hh iy s ih v
+collection	k ah l eh k sh ah n
+come	k ah m
+comes	k ah m z
+coming	k ah m ih ng
+community	k ah m y uw n ah t iy
+computer	k ah m p y uw t er
+conclude	k ah n k l uw d
+conditional	k ah n d ih sh ah n ah l
+confidence	k aa n f ah d ah n s
+conform	k ah n f ao r m
+connection	k ah n eh k sh ah n
+considered	k ah n s ih d er d
+could	k uh d
+couple	k ah p ah l
+course	k ao r s
+curves	k er v z
+custom	k ah s t ah m
+customary	k ah s t ah m eh r iy
+customer	k ah s t ah m er
+customers	k ah s t ah m er z
+data	d ey t ah
+denotes	d ih n ow t s
+dependencies	d ih p eh n d ah n s iy z
+depending	d ih p eh n d ih ng
+derive	d er ay v
+different	d ih f er ah n t
+discover	d ih s k ah v er
+discussed	d ih s k ah s t
+documents	d aa k y ah m ah n t s
+drawing	d r ao ih ng
+each	iy ch
+earlier	er l iy er
+eggs	eh g z
+ellipsoids	ih l ih p s oy d z
+else	eh l s
+end	eh n d
+entities	eh n t ih t iy z
+essentially	iy s eh n sh ah l iy
+even	iy v ah n
+event	ih v eh n t
+events	ih v eh n t s
+example	ih g z ae m p ah l
+fall	f ao l
+false	f ao l s
+faraway	f aa r ah w ey
+fault	f ao l t
+few	f y uw
+figure	f ih g y er
+find	f ay n d
+finding	f ay n d ih ng
+first	f er s t
+for	f ao r
+form	f ao r m
+forms	f ao r m z
+forth	f ao r th
+four	f ao r
+frequent	f r iy k w ah n t
+frequently	f r iy k w ah n t l iy
+from	f r ah m
+give	g ih v
+given	g ih v ah n
+goal	g ow l
+goes	g ow z
+going	g ow ih ng
+graphs	g r ae f s
+group	g r uw p
+groups	g r uw p s
+had	hh ae d
+handle	hh ae n d ah l
+happen	hh ae p ah n
+happened	hh ae p ah n d
+happens	hh ae p ah n z
+has	hh ae z
+have	hh ey v
+having	hh ae v ih ng
+heard	hh er d
+hello	hh eh l ow
+here	hh ih r
+high	hh ay
+him	hh ih m
+historic	hh ih s t ao r ih k
+how	hh aw
+identified	ay d eh n ah f ay d
+illustrated	ih l ah s t r ey t ah d
+image	ih m ih jh
+implies	ih m p l ay z
+input	ih n p uh t
+intact	ih n t ae k t
+interactions	ih n er ae k sh ah n z
+interested	ih n t r ah s t ah d
+into	ih n t ow
+introduced	ih n t r ah d uw s t
+introducing	ih n t r ah d uw s ih ng
+introduction	ih n t r ah d ah k sh ah n
+item	ay t ah m
+items	ay t ah m z
+just	jh ah s t
+keep	k iy p
+kind	k ay n d
+kinds	k ay n d z
+know	n ow
+known	n ow n
+labels	l ey b ah l z
+learning	l er n ih ng
+let	l eh t
+like	l ay k
+little	l ih t ah l
+look	l uh k
+looked	l uh k t
+looking	l uh k ih ng
+lot	l aa t
+machine	m ah sh iy n
+make	m ey k
+many	m eh n iy
+market	m aa r k ah t
+maybe	m ey b iy
+mean	m iy n
+measure	m eh zh er
+mentioned	m eh n sh ah n d
+might	m ay t
+milk	m ih l k
+mining	m ay n ih ng
+module	m aa jh uw l
+more	m ao r
+most	m ow s t
+necessarily	n eh s ah s eh r ah l iy
+need	n iy d
+network	n eh t w er k
+next	n eh k s t
+not	n aa t
+note	n ow t
+now	n aw
+numerous	n uw m er ah s
+occur	ah k er
+occurrence	ah k er ah n s
+occurring	ah k er ih ng
+occurs	ah k er z
+often	ao f ah n
+okay	ow k ey
+once	w ah n s
+one	w ah n
+ones	w ah n z
+opposed	ah p ow z d
+other	ah dh er
+out	aw t
+outliers	aw t l ay er z
+particular	p er t ih k y ah l er
+paths	p ae dh z
+patterns	p ae t er n z
+picture	p ih k ch er
+pixels	p ih k s ah l z
+place	p l ey s
+points	p oy n t s
+popular	p aa p y ah l er
+possible	p aa s ah b ah l
+predicting	p r iy d ih k t ih ng
+primarily	p r ay m eh r ah l iy
+problem	p r aa b l ah m
+problems	p r aa b l ah m z
+process	p r aa s eh s
+promotions	p r ah m ow sh ah n z
+purchase	p er ch ah s
+purported	p er p ao r t ih d
+put	p uh t
+question	k w eh s ch ah n
+reasons	r iy z ah n z
+red	r eh d
+region	r iy jh ah n
+regions	r iy jh ah n z
+regression	r ah g r eh sh ah n
+representative	r eh p r ih z eh n t ah t ih v
+representing	r eh p r ih z eh n t ih ng
+right	r ay t
+rule	r uw l
+rules	r uw l z
+sand	s ae n d
+say	s ey
+scene	s iy n
+sea	s iy
+second	s eh k ah n d
+segmentation	s eh g m ah n t ey sh ah n
+sense	s eh n s
+sequence	s iy k w ah n s
+sequences	s iy k w ah n s ih z
+series	s ih r iy z
+set	s eh t
+sets	s eh t s
+settings	s eh t ih ng z
+setup	s eh t ah p
+shape	sh ey p
+shop	sh aa p
+should	sh uh d
+similar	s ih m ah l er
+site	s ay t
+social	s ow sh ah l
+some	s ah m
+something	s ah m th ih ng
+somewhere	s ah m w eh r
+space	s p ey s
+specific	s p ah s ih f ih k
+stages	s t ey jh ah z
+step	s t eh p
+still	s t ih l
+store	s t ao r
+subset	s ah b s eh t
+supervised	s uw p er v ay z d
+suppose	s ah p ow z
+synonyms	s ih n ah n ih m z
+tags	t ae g z
+take	t ey k
+targeted	t aa r g ah t ih d
+tasks	t ae s k s
+tell	t eh l
+term	t er m
+terminology	t er m ih n aa l ah jh iy
+than	th ae n
+that	dh ae t
+the	th iy
+them	dh eh m
+then	dh eh n
+there	dh eh r
+therefore	dh eh r f ao r
+these	th iy s
+they	dh ey
+thing	th ih ng
+things	th ih ng z
+think	th ih ng k
+this	dh ih s
+those	dh ow z
+time	t ay m
+tofigure	t ow f ih g y er
+together	t ah g eh dh er
+topics	t aa p ih k s
+training	t r ey n ih ng
+transaction	t r ae n z ae k sh ah n
+transactions	t r ae n z ae k sh ah n z
+tree	t r iy
+trigger	t r ih g er
+triggers	t r ih g er z
+try	t r ay
+two	t uw
+type	t ay p
+typically	t ih p ih k ah l iy
+unsupervised	ah n s uw p er v ay z d
+usage	y uw s ah jh
+usages	y uw s ah jh ah z
+use	y uw s
+used	y uw z d
+usually	y uw zh uw ah l iy
+variety	v er ay ah t iy
+very	v eh r iy
+visits	v ih z ih t s
+was	w ah z
+ways	w ey z
+weare	w eh r
+welcome	w eh l k ah m
+what	w ah t
+when	w eh n
+whenever	hh w eh n eh v er
+where	w eh r
+which	w ih ch
+who	hh uw
+will	w ih l
+with	w ih th
+word	w er d
+world	w er l d
+you	y uw
+your	y ao r
+
