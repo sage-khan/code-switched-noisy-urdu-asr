@@ -1,0 +1,30 @@
+%!TEX root = ../thesis.tex
+\chapter{Conclusion} % (fold)
+\label{cha:discussion_conclusion}
+%Our work was originally to improve \cite{sehar_gul_detecting_2020} work to detect malicious sentences in Urdu using ASR which used Deep Learning on a very limited self-generated data-set. When we began our initial analysis we realized that instead of working on tweaking the model, it is better to rework the entire structure and adopt a Data-Centric Approach. 
+
+%Not only did we use the original data-set of \cite{sehar_gul_detecting_2020} but we also added data from other sources to enhance the vocabulary and cater for various other factors (\ref{cha:why_asr_difficult}). 
+
+%Initially, We tried using Hindi models from Vosk \cite{alphacep_vosk_nodate-1} and GitHub to transcribe our call center audios. It gave us 99\% WER. We also tested our audio files on Google Speech Recognition API \cite{zhang_uberi_speechrecognition_nodate} which resulted in the same. Note that Google SR has Hindi libraries available, not Urdu. Hence, we had to develop our model specifically for our environment (keeping in mind our time, manpower and budget constraints).
+
+%We trained an ASR with data of variety in terms of duration, noisiness and language using Hybrid system with Chain CNN-TDNN. With less available data-set we were able to utilize the state of the art structure of traditional models and flexibility and scalability of Chain CNN-TDNN training method. 
+
+%We had a lot of unstructured data and some open source data-set available and we kept a more Data Centric approach. The fact that we kept our data well labelled saved most of the trouble when training the model.
+
+%Instead of cleaning the Call Center audio to retain speech data, we tailored our data-set such that for the same alphabet, number and word we have a noisy as well as a clean sample available which would then be used to train the ASR. In this way the system had instances of how a word sounded like in a clean environment and in a noisy telephonic environment. Our approach catered for various constraints like Timeline, budget and ease of deployment.
+
+Our work presented a data-centric approach to train a code-switched Urdu ASR using Hybrid HMM-DNN method for noisy telephonic environment in a resource-constrained scenario. We analyzed the call center call content and built our dataset. To cater for the code-switching issue between Urdu and English we used Roman script for Text output. The from various sources mentioned in section \ref{sec:Data_preprocessing} were collected, labelled and processed. We trained a HMM based model followed by Chain CNN-TDNN for model building. This was then linked to a Speech To Text Interface allowing the model to be flexibly used across platforms.
+
+%Urdu is Pakistan's "lingua franca," connecting people who speak regional languages such as Balochi, Pashto, Punjabi, and Sindhi with various dialects. It is spoken by over a hundred million people in Pakistan, India, Bangladesh, and parts of Europe. Despite this, Urdu is a low resource language in ASR field as there is very little publicly available transcribed speech data, text corpus, and pronunciation lexicon. 
+
+A robust speech recognition system generally requires hundreds of hours of transcribed speech data, as well as a massive text corpus and lexicon which is lacking with under-resourced languages like Urdu which is why Urdu speakers are around the world excluded from the benefits of ASR.
+
+We proposed a workable framework that involved generation of statistical modelling and alignment for language and acoustics of speech data and applied Neural Networks to improve the accuracy of ASR system. With only 10 hours of data we were able to achieve up to 5.2\% WER. This results shows that Hybrid HMM-DNN (Chain CNN-TDNN) method is an effective and efficient method for ASR Model training with limited data-set available. 
+
+However the model alone is not the only thing to consider when working on a deployable solution. Our work is one of the few examples that takes a Data-Centric Approach to machine learning and the primary reason why our framework gave good results was due to our focus on improving data before tweaking the model.
+
+We had initially set out, only to improve model of \cite{sehar_gul_detecting_2020} to detect malicious words but we ended up building a solution which not only outperformed on data set from \cite{sehar_gul_detecting_2020,ali_automatic_2015,qureshi_urdu_2021}, but we also managed to improve its performance for read-speech, continuous or spontaneous speech and isolated word utterances in code-switched Urdu environment. Our work however still requires improvement in it's robustness especially in overlapping or unclear or distorted speech signals. 
+
+Our work also took into account various security considerations. In fact security policies and practices with respect to ASR systems is definitely and important research area which can be explored further in future. We integrated an open source Speech To Text Interface that allows the models to be easily deployed in Desktop, IOT devices, Asterisk (open source call center solution) Web and Client-Server Environment. 
+
+Hence the work paved way ahead for putting Code-Switched Urdu ASR in a practical usage to benefit Urdu Speaking people around the world.

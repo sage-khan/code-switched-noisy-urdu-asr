@@ -1,0 +1,136 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%IEEE SPM template for SI White paper  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%For this Latex template, font-size, line spacing, and margins are automatically adjusted as a function of the IEEEtran.cls class file. Nevertheless, there are some other points requiring your attention: White paper are not expected to cross the 5-page limit. In addition, up to 50 references are allowed (limit number for the final feature article), and excessive math should be avoided! 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[journal,onecolumn]{IEEEtran}
+\usepackage{amsmath,amsfonts}
+\usepackage{algorithmic}
+\usepackage{algorithm}
+\usepackage{array}
+\usepackage[caption=false,font=normalsize,labelfont=sf,textfont=sf]{subfig}
+\usepackage{textcomp}
+\usepackage{stfloats}
+\usepackage{url}
+\usepackage{verbatim}
+\usepackage{graphicx}
+\usepackage{cite}
+\hyphenation{op-tical net-works semi-conduc-tor IEEE-Xplore}
+% updated with editorial comments 8/9/2021
+%%% MY PACKAGES %%%%
+\usepackage{listings}
+\lstloadlanguages{C,Java,XML,html,python,bash}
+
+%to support coding displays
+\usepackage{fancyvrb}
+\usepackage{framed}
+\usepackage[listings,skins]{tcolorbox}
+\usepackage[skipbelow=\topskip,skipabove=\topskip]{mdframed}
+\mdfsetup{roundcorner=0}
+
+\usepackage{multirow}
+\usepackage{longtable}
+
+%Code listing style named "mycoding"
+\lstdefinestyle{mycoding}{
+  backgroundcolor=\color{lightgray}, commentstyle=\color{purple},
+  keywordstyle=\color{magenta},
+  numberstyle=\tiny\color{darkgray},
+  stringstyle=\color{violet},
+  basicstyle=\ttfamily\footnotesize,
+  breakatwhitespace=false,         
+  breaklines=true,                 
+  captionpos=b,                    
+  keepspaces=true,                 
+  numbers=none,                    
+  numbersep=5pt,                  
+  showspaces=false,                
+  showstringspaces=false,
+  showtabs=false,                  
+  tabsize=2  
+}
+%\renewcommand{\lstlistingname}{Code}% Listing -> Code %% to change Code caption
+%\renewcommand{\lstlistlistingname}{List of \lstlistingname s}% List of Listings -> List of Codes
+\usepackage{xltabular}
+\usepackage{tabularx}
+
+%\usepackage{arabtex}
+%\usepackage{utf8}
+%\setcode{utf8}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[LAE,T1]{fontenc}
+\TeXXeTstate=1
+
+\usepackage{enumitem}
+\usepackage[hidelinks,pagebackref=true]{hyperref}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\title{Article Title \\
+{\large {White paper submitted  in the SPM Special intitled "title of the special Issue".}}}
+
+\author{Manuscript Author(s) with contact information }
+
+% The paper headers
+%\markboth{WHITE PAPER Proposal for "title of the special Issue" SPM Special}%
+
+% The only time the second header will appear is for the odd numbered pages
+% after the title page when using the twoside option.
+
+\maketitle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{About papers in Special Issue}
+
+{\color{blue} This section recall important issue concerning SPM Special Issue (SI) papers. It must be removed when writing your white paper.}
+
+A SPM article in a Special Issue (SI) is a tutorial paper submitted by prospective authors, responding to a call for papers for a SPM special issue.
+
+A tutorial paper should present a systematic introduction of fundamental theories, common practices, and applications in a well defined, reasonably matured, or emerging area, preferably an area that is of interest to readers from multiple fields in signal processing. (The technical scope of a field is determined by each individual technical committee of the Signal Processing Society. An overview paper for readers of a single technical field may be submitted to Transactions of the Society.)
+The tutorial article should cover the history, the state of the art, and the future directions. Prospective authors should avoid making a common mistake in covering only their own work or presenting a narrow and biased view. They should also avoid confusing tutorial papers with transactions-style papers, the latter of which usually present new research results or a focused overview specialized in one single technical field. A tutorial paper should be understandable by a non-expert across different fields in signal processing. Therefore, the authors are advised to minimize the use of complicated equations if possible, and instead use layman's terms and illustrations.\\
+
+A white paper is usually no more than five (5) pages long and must follow the sections below.  Each white paper will be reviewed by the Guest Editor team of the SI. Upon white paper approval, the authors will prepare a full manuscript, which will undergo a peer review process determining acceptance or rejection of the manuscript. Positive reviews of the white paper and invitation for submitting a full manuscript should not be interpreted as acceptance of the full manuscript. 
+
+{\color{blue} The content of a white paper for SI articles is detailled below. Please, remove this section, and fill in the sections below following the instructions (that have also to be removed), and then submit your white paper in ScholarOne.}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Short bio for each author}
+\par Short bio (about 10 to 15 lines) for each author. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{History, motivation, and significance of the topic}
+\label{secrel}
+\par Explain why the topic is important for the SPS community and suited to the SI.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Outline of the proposed SI paper}
+\label{secpr}
+\par Propose the outline for the article.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\section{references}
+%\label{secpe}
+%\par Notice that the full feature paper will content no more than 50 references. Authors will have to select best representative references as feature article are more comprehensive tutorial paper than extensive survey.
+%%%%
+\begin{thebibliography}{10}
+\label{sec:bib}
+\bibitem{reference1}references in the IEEE ordinary format. Let note that the full feature paper will content no more than 50 references. Authors will have to select best representative references as feature article are more comprehensive tutorial paper than extensive survey.
+\bibliographystyle{IEEEbib}
+\bibliography{references}
+\end{thebibliography}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+
+
+
+
+

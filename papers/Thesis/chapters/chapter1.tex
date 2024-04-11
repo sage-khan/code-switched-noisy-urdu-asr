@@ -1,0 +1,54 @@
+%!TEX root = ../thesis.tex
+
+\chapter{Introduction} % (fold)
+\label{cha:intro}
+
+The world is a global village with the advent of telecommunication and internet. Almost everyone is in possession of a cellphone these days making telecommunication the best means of communication available to mankind. These calls require monitoring and transcription which can help improve customer service, QoS etc in call center environment. 
+\par
+There are thousands of minutes worth of calls and it is humanely not possibly to monitor and analyze each of the calls. In CPLC alone there are about 1400,000 minutes of calls in a month which are in Code-Switched Urdu. However there is very less work done in code-switched Urdu ASR for noisy telephonic environment. 
+\par
+%In our work, we developed a Code-switched Urdu Speech to Text (STT) system using Hybrid HMM-DNN for (but not limited to) a call center environment which can then be used for transcription of recorded and live audio calls. It is capable of transcribing code-switched Urdu audio to text with up to 95\% accuracy which can help improve call center Quality of Service.
+\par 
+
+\section{Brief Overview} % (fold)
+Our work initially was to improve upon foundation of the work of Sehar Gul \cite{sehar_gul_detecting_2020} on Urdu ASR to detect malicious speech using Deep Learning on Mozilla DeepSpeech \cite{mozilla_deep_nodate} which gave a WER of 40\%. During our research we found that the model applied Deep Learning on very less data-set which resulted in high WER. Hence we required a different Machine Learning approach and modelling technique to improve our Code-Switched Urdu ASR. 
+\par
+Since the operating environment was telephonic audio (i.e. call center), we required a telephone audio based data for training and testing. We found very limited data available online for training Code-switched Urdu ASR and this is the primary reason why Urdu is a low resourced Language. 
+\par
+Thus, we approached CPLC \cite{cplc_cplc_nodate} who were gracious enough to allow us access to their telephonic data for training of an accurate ASR Speech To Text. Further analysis highlighted that it is best we have data-set of greater variety e.g. read, spontaneous, isolated words, noisy audio etc so that during training, the ASR system is familiarized with maximum possible scenarios it is going to face in practical call center scenario. 
+
+We used Hybrid HMM-DNN training which utilized alignments of statistical models and trained Neural Network which reduced time and computational requirement \cite{naeem_subspace_2020} while reducing Word Error Rate in noisy telephonic audio scenario.
+
+\section{Research Aim \& Objectives} % (fold)
+\label{sub:research-aim}
+To develop an effective code-switched Roman Urdu language model with easily deployable Speech to Text interface and implement it to give an accurate speech to text in a call center environment with good WER and 
+SER, following objectives must be completed:
+
+%The objective of our work is to build a code-switched Urdu ASR Speech to Text framework for implementation in call center/ telephonic environment. The main contributions of this work are as follows:
+
+\begin{itemize}
+    \item Building Large Vocabulary ASR for code switched Urdu Language using state of the art techniques after careful comparison. %In our case we used HMM-DNN (Chain CNN-TDNN) catering for various factors like Computational requirement, availability of labelled dataset, time constraint etc.
+    \item An analysis of the best method for ASR implementation in a resource (time, money, HR) constrained environment.
+    \item Collection of code-switched Urdu telephonic data (covering Large Vocabulary).
+    \item Building an effective code-switched Urdu language model using Roman Urdu script.   
+    %\item Analysis of language usage in our telephonic environment. A real-world deployment environment is required to test if the said system works. (We used CPLC call center data and their platform).
+    \item Selection of suitable ML implementation model and ASR Training method to achieve WER below 10\% and SER below 30\%.% This would require us to choose a good Open Source ASR engine since writing of code from scratch will consume time and human resource.
+    %\item Achievement of WER $<$ 10\% and SER $<$ 25\% in code-switched Urdu Language ASR in telephonic environment.
+    %\item Structuring and Processing of the data-set as per our selected model.
+\end{itemize}
+
+\section{Chapter Structure} % (fold)
+\label{sec:chapter-structure}
+
+The paper begins with giving a basic understanding of ASR system, exploring various challenges that come with implementation of ASR. Then it dives deep into security and privacy considerations for implementing an ASR in a call center or in any generic scenario. Then it reviews related work on ASR (generic, relevant languages and Urdu) along with it's pros and cons followed by a detailed walk-through of our methodology to implement ASR in a call center environment like CPLC \cite{cplc_cplc_nodate}. Then examine our results and compare with relevant work, discussing key insights after which we summarise the work and recommend future steps as well as possible areas of research.
+
+The chapter-by-chapter breakdown is appended below:
+
+\begin{itemize}
+    \item \textit{Chapter 2} explains ASR and its applications. 
+    \item \textit{Chapter 3} explores various challenges associated with ASR implementations and discusses role of AI in Speech Technology and approaches to ASR.
+    \item \textit{Chapter 4} reviews previous literature on development of automatic speech recognition system in general as well as in Urdu. 
+    \item \textit{Chapter 5} discusses the flow of our work in developing our ASR.
+    \item \textit{Chapter 6} talks about results of our implementation of ASR in Urdu Language and performance comparison with related work. It also discusses shortcomings of our work and recommends steps for improvement in future.  
+    \item \textit{Chapter 7} concludes our proposed work.
+\end{itemize}

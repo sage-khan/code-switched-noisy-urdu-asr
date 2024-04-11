@@ -1,0 +1,201 @@
+\documentclass[11pt,a4paper,oneside]{book} %scrbook book report
+
+
+\usepackage[
+backend=biber,
+style=ieee,
+sorting=none
+]{biblatex}
+\addbibresource{references.bib}
+
+\usepackage{arabtex}
+\usepackage{utf8}
+\setcode{utf8}
+
+% Essential packages
+\usepackage{amsmath, amssymb, amsthm} % AMS Packages
+\usepackage{graphicx,color}           % Packages for graphics and color
+\usepackage[left=1.5in, right=1in, top=1in, bottom=1in, includefoot, headheight=13.6pt]{geometry}
+\DeclareMathOperator*{\argmax}{argmax} % thin space, limits underneath in displays
+% Optional customization packages
+\usepackage{lmodern}                  % Custom fonts
+\usepackage[T1]{fontenc}              % Ensure correct font encoding
+
+\usepackage{url}
+\usepackage{enumitem}
+
+% Customising chapter headings - sectsty.pdf
+\usepackage{sectsty}
+\chapterfont{\Large\sc\centering}
+\chaptertitlefont{\centering}
+\subsubsectionfont{\centering}
+
+\usepackage[hang, small, bf, margin=0pt, tableposition=bottom]{caption}
+\setlength{\abovecaptionskip}{10pt}   % Custom captions
+
+% Tables
+\usepackage[table]{xcolor}
+\usepackage{colortbl}
+\usepackage{longtable}
+
+\newcommand{\mc}[2]{\multicolumn{#1}{c}{#2}}
+\definecolor{Gray}{gray}{0.83}
+
+\newcolumntype{x}{>{\columncolor{Gray}}c}
+\newcolumntype{y}{>{\columncolor{white}}c}
+
+% Page layout
+\parindent 0pt
+\parskip 1ex
+\renewcommand{\baselinestretch}{1.49}
+\numberwithin{equation}{section}
+\renewcommand{\bibname}{References}
+\renewcommand{\contentsname}{Contents}
+\pagenumbering{roman}
+
+
+\newcommand{\acrolabel}[1]{\makebox[3cm][l]{\textbf{#1}}}
+\newenvironment{acronyms}{\begin{list}{}{\renewcommand{\makelabel}{\acrolabel}}}{\end{list}}
+
+\newcommand{\subsubsubsection}[1]{\paragraph{#1}\mbox{}\\}
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4}
+
+% \includeonly{tex/chapter1}          % Option to generate specific chapters
+
+% Customising headers - fancyhdr.pdf
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\rhead{}
+\lhead{\nouppercase{\textsc{\leftmark}}}
+\renewcommand{\headrulewidth}{0pt}
+\makeatletter
+\renewcommand{\chaptermark}[1]{\markboth{\textsc{\@chapapp}\ \thechapter:\ #1}{}}
+\makeatother
+
+
+% Hyperreferencing and citations
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=blue,
+    filecolor=blue,
+    linkcolor=blue,
+    urlcolor=blue
+}
+
+% Section symbol
+\usepackage{cleveref}
+\crefname{section}{\S}{\S\S}
+\Crefname{section}{\S}{\S\S}
+\crefname{subsection}{\S}{\S\S}
+\Crefname{subsection}{\S}{\S\S}
+
+
+\usepackage{tabu}
+\usepackage{multirow}
+\usepackage{tabularx}
+\usepackage{adjustbox}
+\usepackage{booktabs}% for better rules in the table
+\usepackage{graphicx}
+%\usepackage{subfigure}
+%\usepackage{color}
+%\usepackage{colortbl}
+%\usepackage{soul}
+\usepackage{pdflscape}
+\usepackage{xltabular}
+
+\usepackage{listings}
+\lstloadlanguages{Java,XML,html,python,bash}
+%\lstset{frame=lines}
+%\lstset{language=bash, basicstyle=\ttfamily}
+
+
+\usepackage{./styles/astron}
+%\usepackage{xspace}
+%\usepackage[leqno]{amsmath}
+%\usepackage{hyperref}
+%\usepackage{sfmath}
+%\usepackage{setspace} 
+\usepackage{./styles/nust}
+\graphicspath{{./img/}{./figs/}}
+
+\title{AUTOMATIC SPEECH AND SENTIMENT RECOGNITION TO IDENTIFY MALICIOUS ACTIVITY/ MAL-INTENDED SPEECH}
+%\subtitle{A sub-title}
+
+\author{MUHAMMAD DANYAL KHAN}
+\regno{Spring-2020-MS-CYS 00000359178 PNEC}
+\degree{\\Master of Science in Cyber Security} % MSCSE, MSCCS
+\school{Pakistan Navy Engineering College}
+
+\adviser{Professor Dr Arshad Aziz }
+\adviserAffiliation{Department of Cyber Security }
+
+\date{October 2022}
+
+% \setcounter{tocdepth}{2}
+% \setstretch{1.1}
+% \linespread{1.1}
+
+\begin{document}
+\maketitle
+
+\thesisAcceptanceCertificate
+
+\evaluationcommitteeapproval{Cdre Dr. Nazeer A. Malik}{Dr Bilal M. Khan} 
+%go to Nust.sty Line 109 to increase number of members
+
+%\chapter*{Dedication}
+%This thesis is dedicated to all the deserving children who do not have access to quality education %especially young girls.
+
+
+
+\certificateoforiginality
+
+%\acknowledgement{Glory be to Allah (S.W.A), the Creator, the Sustainer of the Universe. Who only has the power to honour whom He please, and to abase whom He please. Verily no one can do anything without His will. From the day, I came to National University of Science and Technology till the day of my departure, He was the only one Who blessed me and opened ways for me, and showed me the path of success. Their is nothing which can payback for His bounties throughout my research period to complete it successfully.}
+
+\include{chapters/01-copyrights.tex}
+\include{chapters/02-Dedication.tex}
+\include{chapters/03-acknowledgments.tex}
+\include{chapters/04-abstract.tex}
+
+\tableofcontents
+\listoffigures
+\listoftables
+% \lstlistoflistings
+
+
+
+%\chapter*{Abstract}
+%Abstract\ldots
+
+\resetpagenumbering
+
+
+\include{chapters/05-List-Terms}
+
+    \newpage
+    \pagenumbering{arabic}
+
+    % Include all chapter files
+    \include{chapters/chapter1.tex}
+    \include{chapters/chapter2.tex}
+    \include{chapters/chapter3.tex}
+    \include{chapters/chapter4.tex}
+    \include{chapters/chapter5.tex}
+    \include{chapters/chapter6.tex}
+    \include{chapters/chapter7.tex}
+    \phantomsection
+    \addcontentsline{toc}{chapter}{References}
+
+%\bibliographystyle{ieeetr}
+%\bibliography{citation}
+\printbibliography
+%\begin{appendix}
+%\chapter{First Appendix}
+%The separate numbering of appendices is also supported by LaTeX. The \textit{appendix} macro can be used %to indicate that following chapters are to be numbered as appendices. Only use the \textit{appendix} macro %once for all appendices.
+%\end{appendix}
+\pagenumbering{gobble}
+%\include{checklista}
+%\include{checklistb}
+\end{document}

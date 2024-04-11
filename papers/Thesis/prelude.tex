@@ -1,0 +1,119 @@
+% prelude.tex
+%   - titlepage
+%   - dedication
+%   - acknowledgments
+%   - table of contents, list of tables and list of figures
+%   - nomenclature
+%   - abstract
+%============================================================================
+
+
+\clearpage\pagenumbering{roman}  % This makes the page numbers Roman (i, ii, etc)
+
+
+
+% TITLE PAGE
+%   - define \title{} \author{} \date{}
+\title{AUTOMATIC SPEECH RECOGNITION TO IDENTIFY MALICIOUS ACTIVITY/ MAL-INTENDED SPEECH}
+\author{Muhammad Danyal Khan}
+\date{October 2022}
+%   - The default degree is ``Doctor of Philosophy''
+%     (unless the document style ms-thesis is specified
+%      and then the default degree is ``Master of Science'')
+%     Degree can be changed using the command \degree{}
+\degree{Master of Science}
+%   - The default is dissertation, unless the document style
+%     msthesis was specified in which case it becomes thesis.
+%     If msthesis is specified for the MS margins, you can
+%     still have a dissertation if you specify \disseration
+%\disseration
+%   - for a masters project report, specify \project
+%\project
+%   - for a preliminary report, specify \prelim
+%\prelim
+%   - for a masters thesis, specify \thesis
+%\thesis
+%   - The default department is ``Electrical Engineering''
+%     The department can be changed using the command \department{}
+\department{Cyber Security}
+%   - once the above are defined, use \maketitle to generate the titlepage
+
+\makeapproval
+
+\maketitle
+
+% COPYRIGHT PAGE
+%   - To include a copyright page use \copyrightpage
+%\copyrightpage
+\include{chapters/01-copyrights}
+\thesisAcceptanceCertificate
+
+\evaluationcommitteeapproval{Cdre Dr. Nazeer A. Malik}{Dr Bilal M. Khan} 
+%go to Nust.sty Line 109 to increase number of members
+
+%\chapter*{Dedication}
+%This thesis is dedicated to all the deserving children who do not have access to quality education %especially young girls.
+
+
+
+\certificateoforiginality
+
+
+% DEDICATION
+\begin{dedication}
+\textit{This thesis is dedicated To my loving wife and son, my affectionate mother, my father, my sisters, family, \& friends...}
+\end{dedication}
+
+% ACKNOWLEDGMENTS
+\begin{acknowledgments}
+This thesis describes my research which was conducted from February 2021 to October 2022 during my MS Studies at Pakistan Navy Engineering College, a constituent college of the National University of Science Technology (NUST) at its campus at Karachi.
+    \par
+I am really grateful to Almighty Allah for giving me the consistency, fortitude, guidance, wisdom, and strength to successfully accomplish my task regarding making a successful ASR to detect malicious sentences. This thesis report has been written to fulfill the requirement of MS Degree Program.
+    \par 
+I am grateful to my advisor, Professor Dr. Arshad Aziz, whose support, supervision, and encouragement from the initial to the final stage enabled me to carry out the complete project successfully. My special thanks to the GEC committee members Cdre Dr. Nazeer A. Malik and Dr. Bilal M. Khan.
+    \par
+I am also truly grateful to Citizen Police Liaison Committee, especially Mr. Zubair (Chief CPLC), Mr. Ali Haji and Mr. Raheem Ali for providing PNEC-NUST providing resources to help bring this project to life. 
+    \par
+Lastly I put forward my consent and regards to my wife and my son who are the source of my motivation for everything. I would like to acknowledge the support from my sisters Sanila, Ayela, and Mareeha. My family has been my support system and I would also like to acknowledge the support of Jawad, Nashwa, Zaki, and Nehal. Finally, I thank my Parents who have always provided me with the best possible resources to complete this work.
+
+\end{acknowledgments}
+
+% CONTENTS, TABLES, FIGURES
+\tableofcontents
+\listoftables
+\clearpage
+\listoffigures
+\clearpage
+\include{chapters/05-List-Terms}
+%\lstlistoflistings
+%listofCodes
+%\listofalgorithms
+%\listofsymbols
+
+% NOMENCLATURE
+%\begin{nomenclature}
+%\begin{description}
+%\item \textbf{SHA-3} Secure Hash Algorithm-3
+%\item \textbf{Verilog HDL} Verilog High-Level Description Language
+%\end{description}
+%\end{nomenclature}
+
+
+\newpage
+
+\advisorname{Dr. Arshad Aziz}
+\advisortitle{Professor}
+%\include{approval}
+
+% ABSTRACT
+%\begin{umiabstract}
+ % \input{abstract}
+%\end{umiabstract}
+
+
+\begin{abstract}
+  \input{abstract}
+\end{abstract}
+
+
+\clearpage\pagenumbering{arabic} % This makes the page numbers Arabic (1, 2, etc)

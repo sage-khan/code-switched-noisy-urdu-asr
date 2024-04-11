@@ -1,0 +1,19 @@
+%!TEX root = ../thesis.tex
+    % Abstract
+    \newpage
+    \pdfbookmark[0]{Abstract}{abstract}
+    \chapter*{Abstract}
+
+This thesis describes an implementation of Automatic Speech Recognition/ Speech to Text System in a noisy/ call center environment using Chain Hybrid HMM and CNN-TDNN with very less labelled data available. 
+ 
+Urdu is the $11^{th}$ most widely spoken language in the world, with 231,295,440 worldwide out of which 170 million speakers are in Pakistan, including those who speak it as a second language. However, it is still a low-resource language in field of ASR. In a situation where there is less labelled data available along with huge amount of data available, we have suggested that Hybrid HMM CNN-TDNN training of ASR with a data-centric approach. 
+ 
+Our approach involves training the the accurate model with less data which can then help transcribe the remaining unlabelled data. At each step we iteratevely evaluate and audit the data to check if it is accurately labelled. That data-set becomes an asset which can then be scaled up and used for building Deep Learning based models, which would not have been possible with less amount of data. Apart from noise problems in normal telephonic or call-center conversations in Urdu, people tend to spontaneously use words from other language since we Pakistan is a mutli-cultural society, which presents code-switching problem. 
+ 
+Since the world is a global village now and English is a common medium of speech, no one speaks their native language purely. There will always be words that are taken from other languages. Greater diversity means a greater number of words from other languages will become the norm. Urdu language is spoken in the Karachi area and often has words from English, Sindhi, Punjabi, and Pashto which is known as Code-Switching.
+ 
+Hence, we collected data from various open sources and labelled some of the untagged data after analysing its general context and content from Urdu language as well as from commonly used words from other languages, primarily English, which amounted to total of 10 hours. We also had access to call center audio files, thanks to CPLC \cite{cplc_cplc_nodate} (a semi-government Law Enforcement Agency), some of which was labelled and included in our data-set. The data-set was split into 6.5 hours of train and 3.5 hours of test set. The data comprised of mix of noisy and clean audio as well as single utterances and long sentences (1-20 second audios). 
+ 
+We developed our Language Model from our training data-set and for acoustic modelling we used HMM (Monophone and Triphone) based on which we trained a Neural Network based model using Chain CNN-TDNN, achieving upto 5.2\% WER with noisy and clean data-set as well as on single word to spontaneous speech data as well.
+
+    \textbf{\\ Keywords:} \textit{\\ Speech Recognition, ASR, Call Center, audio transcription, Urdu language, Urdu ASR, Speech to Text, AI, Cyber Security}
